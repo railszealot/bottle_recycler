@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'bottle_recycler'
+puts BottleRecycler.new(ARGV[0])
